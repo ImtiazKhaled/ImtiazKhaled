@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm [Imtiaz](https://imtiazkhaled.com/), I like programming, gaming, and anime. I recently graduated and joined Citrix as a Software Engineer.
 [![Imtiaz's github stats](https://github-readme-stats.vercel.app/api?username=ImtiazKhaled&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazKhaled&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/Bakedpeddler100)
 <!--
 **ImtiazKhaled/ImtiazKhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
